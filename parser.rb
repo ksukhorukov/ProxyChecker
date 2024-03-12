@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 # Copyright 2024 KIRILL SUKHORUKOV
 
 # This program is free software: you can redistribute it and/or modify
@@ -12,9 +14,6 @@
 
 # You should have received a copy of the GNU General Public License V.3
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-
-#!/usr/bin/env ruby
 
 require 'socket'
 require 'pry'
