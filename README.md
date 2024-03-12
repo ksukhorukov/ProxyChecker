@@ -39,6 +39,7 @@ Copy list to clipboard and save to ``raw.txt``
 
 # LICENSE
 
+```
 Copyright 2024 KIRILL SUKHORUKOV
 
 This program is free software: you can redistribute it and/or modify
@@ -53,6 +54,7 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License V.3
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+```
 
 ## [EOF]
 
