@@ -1,8 +1,10 @@
 require 'pry'
 require_relative './verbose_messages'
+require_relative './raw_data_reading'
 
 class ProxyChecker 
   include VerboseMessages
+  include RawDataReading
 
   PROXY_FILE = 'raw.txt'
 
@@ -33,14 +35,6 @@ class ProxyChecker
 
   def fetch_sockets
     @fetch_sockets ||= raw_content.map { |str| str.strip.split(' ')[0] }
-  end
-
-  def raw_content
-    @raw_content ||= File.readlines(data_file_path)
-  end
-
-  def data_file_path 
-    @data_file_path ||= File.absolute_path(file_name)
   end
 
   def connectivity_check_filter
