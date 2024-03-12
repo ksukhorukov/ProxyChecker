@@ -13,6 +13,7 @@ Copy list to clipboard and save to ``raw.txt``
 ## Results Sample
 
 ```
+...
 [+] Done! 11 failed. 19 working.
 
 43.133.82.61:15673
