@@ -8,7 +8,7 @@ Copy list to clipboard and save to ``raw.txt``
 
 ## Usage 
 
-``$ ./parser.rb``
+``$ ./app.rb``
 
 ## Results Sample
 
