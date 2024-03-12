@@ -2,11 +2,14 @@ require 'pry'
 require_relative './verbose_messages'
 require_relative './raw_data_reading'
 require_relative './connectivity_checker'
+require_relative './statistics'
+
 
 class ProxyChecker 
   include VerboseMessages
   include RawDataReading
   include ConnectivityChecker
+  include Statistics
 
   PROXY_FILE = 'raw.txt'
 

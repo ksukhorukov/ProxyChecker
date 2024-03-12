@@ -16,8 +16,4 @@ module VerboseMessages
   def starting_parsing_info
     puts "[+] Parsing raw data...\n".colorize(:green)
   end
-
-  def stats
-    puts "\n[+] Done! #{@failed} failed. #{@counter} working.\n".colorize(:green)
-  end
 end
