@@ -2,9 +2,14 @@ require 'pry'
 require_relative './verbose_messages'
 
 class ProxyChecker 
+  include VerboseMessages
+
   PROXY_FILE = 'raw.txt'
 
-  def initialize 
+  attr_reader :file_name
+
+  def initialize(file_name = PROXY_FILE)
+    @file_name = file_name
     perform
   end
 
@@ -17,9 +22,25 @@ class ProxyChecker
 
   private
 
-  def parse_list(file_name = PROXY_FILE)
-    starting_parsing_info
-    File.readlines(File.absolute_path(file_name)).map { |str| str.strip.split(' ')[0] }.map { |e| e if e.match(/[0-9\.]+\:\d+/) }.compact!.each { |s| s }
+  def parse_list
+    starting_parsing_info  
+    filtered_sockets
+  end
+
+  def filtered_sockets
+    @filtered_sockets ||= fetch_sockets.map { |e| e if e.match(/[0-9\.]+\:\d+/) }.compact!.each { |s| s }
+  end
+
+  def fetch_sockets
+    @fetch_sockets ||= raw_content.map { |str| str.strip.split(' ')[0] }
+  end
+
+  def raw_content
+    @raw_content ||= File.readlines(data_file_path)
+  end
+
+  def data_file_path 
+    @data_file_path ||= File.absolute_path(file_name)
   end
 
   def connectivity_check_filter
@@ -42,13 +63,8 @@ class ProxyChecker
   end
 
   def checked_list
-    binding.pry
-    puts "\n" + @checked.join("\n") + "\n\n".colorize(:red).on_blue.underline
+    puts "\n" + @checked.join("\n") + "\n\n"
   end 
-
-  def stats
-    puts "\n[+] Done! #{@failed} failed. #{@counter} working.\n".colorize(:green)
-  end
 end
 
 
