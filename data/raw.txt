@@ -1,60 +1,60 @@
-46.0.203.140:4890 SOCKS5  HIA Russia (Samara) 46x0x203x140.static-customer.samara.ertelecom.ru (JSC ER-Telecom Holding) 1.066 
-24% (134) - 12-mar-2024 04:03 (14 mins ago)
-212.3.112.128:35860 SOCKS5  HIA Ukraine !!! 112-128.trifle.net (Science Production Company Trifle Ltd.) 1.344 
-14% (29) -  12-mar-2024 03:56 (20 mins ago)
-43.133.82.61:15673  SOCKS5  HIA South Korea (Seoul) 43.133.82.61 (Tencent Building, Kejizhongyi Avenue) 3.591 
-33% (1) + 12-mar-2024 03:43 (34 mins ago)
-104.247.163.246:3825  SOCKS5  HIA Turkey  246jw3tFA.guzel.net.tr (GNET Internet Telekomunikasyon A.S.)  9.5 
-new - 12-mar-2024 03:29 (48 mins ago)
-15.235.187.227:62640  SOCKS5  HIA Singapore vps-4a62fa86.vps.ovh.ca (OVH SAS) 9.424 
-16% (12) +  12-mar-2024 03:22 (55 mins ago)
-23.95.209.142:15673 SOCKS5  HIA United States (Marietta)  academic-reckon.airyiron.com (AS-COLOCROSSING)  4.148 
-33% (1) + 12-mar-2024 03:12 (1 hours ago)
-107.180.95.177:1405 SOCKS5  HIA United States (Ashburn) 177.95.180.107.host.secureserver.net (GO-DADDY-COM-LLC) 8.599 
-new - 11-mar-2024 23:09 (5 hours ago)
-213.251.184.216:63992 SOCKS5  HIA France  prod.ebeasoftware.com (OVH SAS) 5.529 
-50% (2) - 11-mar-2024 22:39 (5 hours ago)
-148.72.211.168:59828  SOCKS5  HIA Singapore (Singapore) 168.211.72.148.host.secureserver.net (AS-26496-GO-DADDY-COM-LLC)  4.964 
-67% (2) - 11-mar-2024 22:30 (5 hours ago)
-91.142.222.84:22735 SOCKS5  HIA Spain ns1.littlebigsystems.com (Axarnet Comunicaciones, S.l.) 5.033 
-17% (1) - 11-mar-2024 19:43 (8 hours ago)
-5.44.42.115:58386 SOCKS5  HIA United Arab Emirates  4ser-1682696690_1.ip-ptr.tech (Global Internet Solutions LLC) 1.289 
-50% (1) - 11-mar-2024 19:09 (9 hours ago)
-208.102.51.6:58208  SOCKS5  HIA United States (Alexandria)  ip-208-102-51-6.static.fuse.net (FUSE-NET)  3.206 
-87% (3689) +  11-mar-2024 18:55 (9 hours ago)
-162.214.75.237:48292  SOCKS5  HIA United States !!! server2.rabsworld.in (UNIFIEDLAYER-AS-1)  15.496  
-50% (1) - 11-mar-2024 18:32 (9 hours ago)
-72.167.222.113:12581  SOCKS5  HIA United States (Ashburn) 113.222.167.72.host.secureserver.net (GO-DADDY-COM-LLC) 2.724 
-50% (1) - 11-mar-2024 18:08 (10 hours ago)
-94.23.220.136:25256 SOCKS5  HIA France  ns363164.ip-94-23-220.eu (OVH SAS)  3.581 
-13% (2) - 11-mar-2024 17:52 (10 hours ago)
-185.109.184.150:56067 SOCKS5  HIA Italy ubuntu-hosting-5.184.109.185.in-addr.arpa (Elsynet S.r.l.)  2.995 
-28% (5) - 11-mar-2024 17:48 (10 hours ago)
-34.79.91.3:59040  SOCKS5  HIA Belgium (Brussels)  3.91.79.34.bc.googleusercontent.com (GOOGLE-CLOUD-PLATFORM) 19.501  
-15% (75) -  11-mar-2024 17:13 (11 hours ago)
-162.214.225.223:34071 SOCKS5  HIA United States vps-6682960.setedesigner.com.br (UNIFIEDLAYER-AS-1) 5.255 
-50% (1) - 11-mar-2024 17:02 (11 hours ago)
-65.49.82.7:58195  SOCKS5  HIA United States 65.49.82.7 (HURRICANE)  5.809 
-new - 11-mar-2024 16:58 (11 hours ago)
-199.102.105.242:4145  SOCKS5  HIA United States 199.102.105.242 (PERFORMIVE)  1.22  
-95% (485) + 11-mar-2024 13:56 (14 hours ago)
-162.215.219.157:48117 SOCKS5  HIA United States dedi-11346902.abasolucoes.com.br (UNIFIEDLAYER-AS-1)  9.903 
-30% (3) - 11-mar-2024 13:51 (14 hours ago)
-192.252.208.67:14287  SOCKS5  HIA United States 192.252.208.67 (PERFORMIVE) 1.253 
-98% (852) + 11-mar-2024 13:41 (14 hours ago)
-115.146.225.137:10046 SOCKS5  HIA Philippines (Davao City)  115.146.225.137 (Philippine Long Distance Telephone Company)  23.64 
-100% (3) -  11-mar-2024 13:38 (14 hours ago)
-161.97.74.176:30000 SOCKS5  HIA Germany (Nuremberg) !!! vmi1555897.contaboserver.net (Contabo GmbH) 15.733  
-43% (3) + 11-mar-2024 13:28 (14 hours ago)
-38.242.251.177:31443  SOCKS5  HIA Germany (Düsseldorf)  vmi840841.contaboserver.net (Contabo GmbH)  4.488 
-50% (1) - 11-mar-2024 12:51 (15 hours ago)
-132.148.129.254:27045 SOCKS5  HIA United States !!! 254.129.148.132.host.secureserver.net (GO-DADDY-COM-LLC)  6.145 
-21% (3) - 11-mar-2024 10:34 (17 hours ago)
-45.195.149.79:1080  SOCKS5  HIA Hong Kong (Hong Kong) 45.195.149.79 (Gigabitbank Global)  8.576 
-22% (2) - 11-mar-2024 10:30 (17 hours ago)
-98.181.137.80:4145  SOCKS5  HIA United States (Las Vegas) 98.181.137.80 (ASN-CXA-ALL-CCI-22773-RDC) 3.04  
-99% (448) + 11-mar-2024 09:13 (19 hours ago)
-213.252.245.221:6116  SOCKS5  HIA Lithuania !!! 8200-24108.bacloud.info (Informacines sistemos ir technologijos, UAB) 22.876  
-2% (6) -  11-mar-2024 09:11 (19 hours ago)
-74.119.147.209:4145 SOCKS5  HIA United States 74.119.147.209 (PERFORMIVE) 0.936 
-100% (874) +  11-mar-2024 09:08 (19 hours ago)
+107.180.95.177:1405 SOCKS5  HIA United States (Ashburn) 177.95.180.107.host.secureserver.net (GO-DADDY-COM-LLC) 14.412  
+100% (2) -  12-mar-2024 10:59 (1 hours ago)
+104.236.0.129:29249 SOCKS5  HIA United States (Clifton) 104.236.0.129 (DIGITALOCEAN-ASN)  2.452 
+new - 12-mar-2024 10:54 (1 hours ago)
+148.72.209.174:39458  SOCKS5  HIA Singapore (Singapore) 174.209.72.148.host.secureserver.net (AS-26496-GO-DADDY-COM-LLC)  21.631  
+new - 12-mar-2024 10:47 (1 hours ago)
+192.111.129.145:16894 SOCKS5  HIA Canada (Toronto)  192.111.129.145 (PERFORMIVE)  0.905 
+99% (1329) +  12-mar-2024 10:40 (1 hours ago)
+46.241.57.29:1080 SOCKS5  HIA Russia  host-46-241-57-29.bbcustomer.zsttk.net (Joint Stock Company TransTeleCom) 9.311 
+12% (87) -  12-mar-2024 09:47 (2 hours ago)
+98.181.137.80:4145  SOCKS5  HIA United States (Las Vegas) 98.181.137.80 (ASN-CXA-ALL-CCI-22773-RDC) 2.984 
+99% (449) + 12-mar-2024 09:12 (2 hours ago)
+199.102.105.242:4145  SOCKS5  HIA United States 199.102.105.242 (PERFORMIVE)  1.162 
+95% (486) + 12-mar-2024 09:12 (2 hours ago)
+74.119.147.209:4145 SOCKS5  HIA United States 74.119.147.209 (PERFORMIVE) 0.879 
+100% (875) +  12-mar-2024 09:08 (2 hours ago)
+192.252.208.67:14287  SOCKS5  HIA United States 192.252.208.67 (PERFORMIVE) 0.894 
+98% (853) + 12-mar-2024 09:08 (2 hours ago)
+188.165.237.26:52982  SOCKS5  HIA France  ns3067624.ip-188-165-237.eu (OVH SAS) 3.29  
+15% (18) -  12-mar-2024 09:08 (2 hours ago)
+208.102.51.6:58208  SOCKS5  HIA United States (Alexandria)  ip-208-102-51-6.static.fuse.net (FUSE-NET)  3.363 
+87% (3690) -  12-mar-2024 09:07 (2 hours ago)
+199.229.254.129:4145  SOCKS5  HIA United States 199.229.254.129 (PERFORMIVE)  0.908 
+100% (897) +  12-mar-2024 09:07 (2 hours ago)
+107.152.98.5:4145 SOCKS5  HIA United States 107.152.98.5 (PERFORMIVE) 1.026 
+97% (665) + 12-mar-2024 09:06 (2 hours ago)
+98.162.25.7:31653 SOCKS5  HIA United States ip98-162-25-7.om.om.cox.net (ASN-CXA-ALL-CCI-22773-RDC) 2.999 
+83% (366) + 12-mar-2024 09:04 (2 hours ago)
+142.54.237.34:4145  SOCKS5  HIA United States vm-wellness-web01.madavor.cl.zerolag.com (PERFORMIVE) 1.367 
+97% (672) + 12-mar-2024 09:04 (2 hours ago)
+132.148.155.180:45578 SOCKS5  HIA United States 180.155.148.132.host.secureserver.net (GO-DADDY-COM-LLC)  1.342 
+7% (4) +  12-mar-2024 09:04 (2 hours ago)
+72.210.221.197:4145 SOCKS5  HIA United States ip72-210-221-197.ph.ph.cox.net (ASN-CXA-ALL-CCI-22773-RDC)  2.996 
+100% (607) +  12-mar-2024 09:03 (2 hours ago)
+68.1.210.163:4145 SOCKS5  HIA United States (San Diego) 68.1.210.163 (ASN-CXA-ALL-CCI-22773-RDC)  2.971 
+100% (725) +  12-mar-2024 09:00 (3 hours ago)
+142.54.228.193:4145 SOCKS5  HIA United States 142.54.228.193 (PERFORMIVE) 1.038 
+96% (644) + 12-mar-2024 09:00 (3 hours ago)
+184.181.217.210:4145  SOCKS5  HIA United States 184.181.217.210 (ASN-CXA-ALL-CCI-22773-RDC) 3.334 
+88% (2612) +  12-mar-2024 08:57 (3 hours ago)
+184.170.248.5:4145  SOCKS5  HIA United States 184.170.248.5 (PERFORMIVE)  0.915 
+100% (789) +  12-mar-2024 08:57 (3 hours ago)
+24.249.199.12:4145  SOCKS5  HIA United States (Oceanside) 24.249.199.12 (ASN-CXA-ALL-CCI-22773-RDC) 3.183 
+85% (2186) +  12-mar-2024 08:52 (3 hours ago)
+192.111.137.35:4145 SOCKS5  HIA Canada (Toronto)  192.111.137.35 (PERFORMIVE) 1.307 
+86% (2829) +  12-mar-2024 08:52 (3 hours ago)
+192.111.135.17:18302  SOCKS5  HIA United States (Atlanta) 192.111.135.17 (PERFORMIVE) 4.013 
+98% (744) + 12-mar-2024 08:51 (3 hours ago)
+199.102.106.94:4145 SOCKS5  HIA United States tbd.zerolag.com (PERFORMIVE)  2.004 
+96% (457) + 12-mar-2024 08:51 (3 hours ago)
+192.111.134.10:4145 SOCKS5  HIA United States (Los Angeles) 192.111.134.10 (PERFORMIVE) 1.174 
+97% (697) + 12-mar-2024 08:51 (3 hours ago)
+184.178.172.17:4145 SOCKS5  HIA United States (Roanoke) wsip-184-178-172-17.rn.hr.cox.net (ASN-CXA-ALL-CCI-22773-RDC) 3.297 
+100% (142) +  12-mar-2024 08:51 (3 hours ago)
+116.97.240.147:4996 SOCKS5  HIA VietNam (Hanoi) dynamic-ip-adsl.viettel.vn (Viettel Group)  17.005  
+18% (32) -  12-mar-2024 08:47 (3 hours ago)
+36.64.22.18:8199  SOCKS5  HIA Indonesia (Jakarta) 36.64.22.18 (PT Telekomunikasi Indonesia) 4.748 
+11% (4) - 12-mar-2024 05:43 (6 hours ago)
+45.117.179.179:17827  SOCKS5  HIA VietNam 45.117.179.179 (NhanHoa Software company) 11.586  
+25% (1) - 12-mar-2024 05:42 (6 hours ago)

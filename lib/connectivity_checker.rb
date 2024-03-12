@@ -13,6 +13,8 @@
 # You should have received a copy of the GNU General Public License V.3
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+require 'socket'
+
 module ConnectivityChecker
   def connectivity_check_filter
     @checked = []
@@ -22,7 +24,7 @@ module ConnectivityChecker
       begin 
         host, port = socket_address.split(':')
         TCPSocket.new(host, port, connect_timeout: 5)
-      rescue StandardError
+      rescue StandardError => e
         time_out_error_info
         @failed += 1
       else 
