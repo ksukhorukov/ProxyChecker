@@ -15,8 +15,6 @@
 # You should have received a copy of the GNU General Public License V.3
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-require 'socket'
-
 require_relative './lib/proxy_checker'
 
-ProxyChecker.new
+include ProxyChecker

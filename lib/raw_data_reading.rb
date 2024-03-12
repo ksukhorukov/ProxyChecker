@@ -21,4 +21,8 @@ module RawDataReading
   def fetch_sockets
     @fetch_sockets ||= raw_content.map { |str| str.strip.split(' ')[0] }
   end
+
+  def checked_list
+    puts "\n" + @checked.join("\n") + "\n\n"
+  end 
 end

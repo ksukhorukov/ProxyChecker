@@ -1,13 +1,13 @@
 require_relative './engine'
 
+module ProxyChecker 
+  def self.included(base) 
+    include Engine
 
-class ProxyChecker 
-  include Engine
-
-  attr_reader :file_name
-
-  def initialize(file_name = PROXY_FILE)
-    @file_name = file_name
+    attr_reader :file_name
+    
+    @file_name = PROXY_FILE
+    
     perform
   end
 end

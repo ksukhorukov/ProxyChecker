@@ -20,8 +20,4 @@ module Engine
     stats
     checked_list
   end
-
-  def checked_list
-    puts "\n" + @checked.join("\n") + "\n\n"
-  end 
 end
