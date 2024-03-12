@@ -1,10 +1,12 @@
 require 'pry'
 require_relative './verbose_messages'
 require_relative './raw_data_reading'
+require_relative './connectivity_checker'
 
 class ProxyChecker 
   include VerboseMessages
   include RawDataReading
+  include ConnectivityChecker
 
   PROXY_FILE = 'raw.txt'
 
@@ -35,25 +37,6 @@ class ProxyChecker
 
   def fetch_sockets
     @fetch_sockets ||= raw_content.map { |str| str.strip.split(' ')[0] }
-  end
-
-  def connectivity_check_filter
-    @checked = []
-    @failed = 0
-    parse_list.each do |socket_address|
-      @socket_address = socket_address 
-      begin 
-        host, port = socket_address.split(':')
-        TCPSocket.new(host, port, connect_timeout: 5)
-      rescue StandardError
-        time_out_error_info
-        @failed += 1
-      else 
-        @checked << socket_address
-      end
-    end
-    @counter = @checked.size 
-    @checked
   end
 
   def checked_list
