@@ -1,4 +1,4 @@
-# ProxyChecker
+# Proxy Checker
 
 Parses data from https://spys.one/en/socks-proxy-list
 
